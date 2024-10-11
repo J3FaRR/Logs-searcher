@@ -10,4 +10,5 @@ Program language: `JavaScript`.
 - replace the token of your bot in line 5
 - run it with nodejs and enjoy.
 - put a star.
-[Programmed by J3FaR.](t.me/iraqsGodFather)
+
+- Programmed by [J3FaR](t.me/iraqsGodFather)
