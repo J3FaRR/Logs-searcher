@@ -11,4 +11,4 @@ Program language: `JavaScript`.
 - run it with nodejs and enjoy.
 - put a star.
 
-- Programmed by [J3FaR](t.me/iraqsGodFather)
+- Programmed by [J3FaR](https://t.me/iraqsGodFather)
