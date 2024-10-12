@@ -18,7 +18,7 @@ function searching(searchquery) {
 }
 
 bot.onText(/\/start/, (msg) => {
-    bot.sendMessage(chatId, "use /s or /search for searching\nEx. /s gmail");
+    bot.sendMessage(msg.chat.id, "use /s or /search for searching\nEx. /s gmail");
 });
 
 bot.onText(/\/(?:s|search) (.+)/, (msg, match) => {
